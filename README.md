@@ -20,8 +20,6 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-7AC7FF?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/elysia-lys)
 [![PHP](https://img.shields.io/badge/-PHP-CBA7FF?style=for-the-badge&logo=php&logoColor=white)](https://github.com/elysia-lys)
 [![Python](https://img.shields.io/badge/-Python-85C1FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/elysia-lys)
-[![C](https://img.shields.io/badge/-C-B0B0FF?style=for-the-badge&logo=c&logoColor=white)](https://github.com/elysia-lys)
-[![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ### 🎨 Design & Productivity
 [![Figma](https://img.shields.io/badge/-Figma-FF96AA?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -41,17 +39,18 @@
 ---
 
 ## 🌱 Currently Learning
-- 💻 C & C++
-- 🐧 Linux
-- 🌐 Web Development
-- 📱 Flutter Applications
-- 🟢 Node.js
-
----
+[![C & C++](https://img.shields.io/badge/-C%20%26%20C++-00599C?style=for-the-badge&logo=c?logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Web Development](https://img.shields.io/badge/-Web%20Development-FF5733?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![App Development](https://img.shields.io/badge/-App%20Development-7B68EE?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 
 ## 🔭 Currently Working On
-- 🌸 Websites & Web Development  
-- 🌈 Flutter Applications  
+[![Web Development](https://img.shields.io/badge/-Web%20Development-FF5733?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![App Development](https://img.shields.io/badge/-App%20Development-7B68EE?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![C & C++ Projects](https://img.shields.io/badge/-C%20%26%20C++%20Projects-00599C?style=for-the-badge&logo=c?logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ---
 
