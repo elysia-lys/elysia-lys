@@ -37,7 +37,6 @@
 [![Linux](https://img.shields.io/badge/Linux-DA70D6?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-6495ED?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![App Development](https://img.shields.io/badge/App_Development-FF69B4?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-[![C & C++ Projects](https://img.shields.io/badge/C%20%26%20C++_Projects-DA70D6?style=for-the-badge&logo=c?logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ---
 
