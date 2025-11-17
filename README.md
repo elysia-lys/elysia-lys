@@ -35,6 +35,8 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-7CE3FF?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/elysia-lys)
 [![WampServer](https://img.shields.io/badge/-WampServer-FF5733?style=for-the-badge&logo=wampserver&logoColor=white)](https://www.wampserver.com/en/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+
 
 ---
 
